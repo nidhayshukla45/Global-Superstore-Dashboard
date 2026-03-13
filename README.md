@@ -11,7 +11,7 @@ This repository contains the Power BI dashboard file (.pbix) for the Global Supe
 - The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset?resource=download)
 
 Dataset file included in this repository:
-global_superstore_dataset.csv
+superstore_dataset.csv
 
 ## Tools Used
 - Microsoft Power BI Desktop
