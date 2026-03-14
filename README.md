@@ -19,10 +19,10 @@ superstore_dataset.csv
 ## Dashboard Preview
 
 ### Page 1 – Sales Overview
-![Dashboard Page 1](dashboard-page1.png)
+![Dashboard Page 1]()
 
 ### Page 2 – Geographical Analysis
-![Dashboard Page 2](dashboard-page2.png)
+![Dashboard Page 2]()
 
 ## How to Open
 Download the .pbix file and open in Power BI Desktop.
